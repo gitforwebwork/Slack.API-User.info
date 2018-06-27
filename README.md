@@ -9,3 +9,8 @@ image:: https://github.com/hassifow/Get-slack-user-name-who-pinged-the-bot/blob/
    :height: 100px
    :width: 200 px
    :scale: 50 %
+   
+   
+   <p align="center">
+  <img src="https://github.com/hassifow/Get-slack-user-name-who-pinged-the-bot/blob/master/Screen%20Shot%202018-06-27%20at%2015.00.50.png?raw=true" width="350"/>
+</p>
