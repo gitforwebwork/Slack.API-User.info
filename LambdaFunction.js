@@ -9,7 +9,7 @@ var options = {
         json: true
     };
     
-var name; // Create a variable to hold name.
+var username; // Create a variable to hold name.
 
 // Get user id from dialogflow.
 let userID = event.originalDetectIntentRequest.payload.data.event.user;
